@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import cv2
+
 # 读取图片
 img = cv2.imread("F:/Python/pythonWorkspace/ShawOpencvLearning/pythonOpencvLearning/lena.bmp")
 # 创建窗口并显示图片
